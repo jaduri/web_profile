@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 12.7 12.7"
+   height="48"
+   width="48"
+   sodipodi:docname="projects.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1882"
+     inkscape:window-height="1008"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="5.4137863"
+     inkscape:cx="12.049644"
+     inkscape:cy="10.047894"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 0.77209818,2.1530204 H 11.960677 c 0.24061,0 0.434313,0.1937036 0.434313,0.434313 v 9.3867426 c 0,0.240609 -0.193703,0.434313 -0.434313,0.434313 H 0.77209818 c -0.24060938,0 -0.43431297,-0.193704 -0.43431297,-0.434313 V 2.5873334 c 0,-0.2406094 0.19370359,-0.434313 0.43431297,-0.434313 z"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73911px;line-height:1.25;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner';letter-spacing:0px;word-spacing:0px;opacity:0.999;fill:none;fill-opacity:1;stroke:#f28c38;stroke-width:0.370417;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1452" />
+  <path
+     d="m 1.4614041,0.34920955 h 4.7698216 c 0.1255788,0 0.2266765,0.10109771 0.2266765,0.22667648 V 1.8581439 c 0,0.1255788 -0.1010977,0.2266765 -0.2266765,0.2266765 H 1.4614041 c -0.1255788,0 -0.2266765,-0.1010977 -0.2266765,-0.2266765 V 0.57588603 c 0,-0.12557877 0.1010977,-0.22667648 0.2266765,-0.22667648 z"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73911px;line-height:1.25;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner';letter-spacing:0px;word-spacing:0px;opacity:0.999;fill:none;fill-opacity:1;stroke:#f28c38;stroke-width:0.370417;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1454" />
+  <g
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73911px;line-height:1.25;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#f28c38;stroke-width:0.329698;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(1.1151658,0.05170622,-0.31395344,1.1173432,5.7439719,0.99133985)"
+     id="g1498">
+    <path
+       style="fill:none;stroke:#f28c38;stroke-width:0.329698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.5995763,9.712543 2.892756,8.3636893 5.7268255,4.8229484 6.8018177,5.7399793 3.9677481,9.0802679 Z"
+       id="path1470" />
+    <path
+       style="fill:none;stroke:#f28c38;stroke-width:0.329698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.892756,8.3636893 3.2985626,8.2620005 3.2813546,8.5311693 3.66269,8.4421143 3.66615,8.8105855 3.9325003,8.6766151 3.9677445,9.0802676"
+       id="path1472" />
+    <path
+       d="m 7.6096362,-0.58271289 h 1.1678861 c 0.077195,0 0.1393408,0.062146 0.1393408,0.13934077 v 0.41397021 c 0,0.07719479 -0.062146,0.13934077 -0.1393408,0.13934077 H 7.6096362 c -0.077195,0 -0.1393408,-0.06214598 -0.1393408,-0.13934077 v -0.41397021 c 0,-0.0771948 0.062146,-0.13934077 0.1393408,-0.13934077 z"
+       transform="matrix(0.76832247,0.64006295,-0.61337045,0.78979535,0,0)"
+       style="opacity:0.999;fill:none;stroke:#f28c38;stroke-width:0.329795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1474" />
+    <path
+       style="fill:none;stroke:#f28c38;stroke-width:0.329698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.2985626,8.2620005 5.9022986,5.0740571"
+       id="path1482" />
+    <path
+       style="fill:none;stroke:#f28c38;stroke-width:0.329698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.6626899,8.4421142 6.1916866,5.322104"
+       id="path1484" />
+    <path
+       style="fill:none;stroke:#f28c38;stroke-width:0.329698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.9325003,8.6766151 6.5373615,5.5768283"
+       id="path1486" />
+  </g>
+  <path
+     id="path1505"
+     d="M 1.4608828,3.9026041 C 6.7194765,3.8695312 6.7194765,3.8695312 6.7194765,3.8695312"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73911px;line-height:1.25;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#f28c38;stroke-width:0.370417;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73911px;line-height:1.25;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#f28c38;stroke-width:0.370417;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1.4452558,4.7447513 C 7.03511,4.7117524 7.03511,4.7117524 7.03511,4.7117524"
+     id="path1507" />
+  <path
+     id="path1509"
+     d="m 1.4550504,5.6688142 c 1.0402979,0.00638 1.0402979,0.00638 1.0402979,0.00638"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73911px;line-height:1.25;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#f28c38;stroke-width:0.370417;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73911px;line-height:1.25;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#f28c38;stroke-width:0.370417;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1.4302003,6.6004023 C 8.577194,6.5677223 8.577194,6.5677223 8.577194,6.5677223"
+     id="path1511" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73911px;line-height:1.25;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#f28c38;stroke-width:0.370417;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2.7696988,5.6688142 c 1.0402979,0.00638 1.0402979,0.00638 1.0402979,0.00638"
+     id="path1519" />
+  <path
+     id="path1521"
+     d="m 4.0843472,5.6688142 c 1.0402979,0.00638 1.0402979,0.00638 1.0402979,0.00638"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73911px;line-height:1.25;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#f28c38;stroke-width:0.370417;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73911px;line-height:1.25;font-family:'Sitka Banner';-inkscape-font-specification:'Sitka Banner';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#f28c38;stroke-width:0.370417;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 5.4403368,5.6688142 c 1.0402979,0.00638 1.0402979,0.00638 1.0402979,0.00638"
+     id="path1523" />
+</svg>

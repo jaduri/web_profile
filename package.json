@@ -1,0 +1,16 @@
+{
+  "name": "web-profile",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dserver.js)",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "T.J. Aduwari",
+  "license": "ISC"
+}

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg857"
+   version="1.1"
+   viewBox="0 0 12.705289 12.759378"
+   height="48.224422"
+   width="48.019989"
+   sodipodi:docname="person.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="7.62062"
+     inkscape:cx="36.688558"
+     inkscape:cy="33.457423"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg857" />
+  <defs
+     id="defs851">
+    <clipPath
+       id="clipPath1428"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="0.047247026"
+         x="0"
+         height="12.520462"
+         width="12.709449"
+         id="rect1430"
+         style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.600001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       id="clipPath1432"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="0.047247026"
+         x="0"
+         height="12.520462"
+         width="12.709449"
+         id="rect1434"
+         style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.600001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata854">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="stroke-width:0.37041666;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="translate(-0.01182035,-0.04075548)"
+     id="layer1">
+    <g
+       style="stroke-width:0.37041666;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g1482">
+      <path
+         id="path1422"
+         clip-path="url(#clipPath1432)"
+         style="opacity:0.999;fill:none;stroke:#ff7f11;stroke-width:0.3716376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.98265393,0,0,1.0109767,0.10613174,-0.03991367)"
+         d="M 9.5438986,4.0632439 A 3.4254093,3.6852679 0 0 1 6.1184893,7.7485118 3.4254093,3.6852679 0 0 1 2.6930799,4.0632439 3.4254093,3.6852679 0 0 1 6.1184893,0.37797594 3.4254093,3.6852679 0 0 1 9.5438986,4.0632439" />
+      <path
+         id="rect1424"
+         clip-path="url(#clipPath1428)"
+         style="opacity:0.999;fill:none;stroke:#ff7f11;stroke-width:0.36369923;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.0074931,0,0,1.029566,-8.8571131e-5,-0.17822896)"
+         d="m 4.7530406,7.8046169 h 3.1283541 c 2.4604363,0 4.4412203,1.9807843 4.4412203,4.4412201 v 8.156019 c 0,2.460436 -1.980784,4.441221 -4.4412203,4.441221 H 4.7530406 c -2.460436,0 -4.44122024,-1.980785 -4.44122024,-4.441221 v -8.156019 c 0,-2.4604358 1.98078424,-4.4412201 4.44122024,-4.4412201 z" />
+      <path
+         style="fill:none;stroke:#ff7f11;stroke-width:0.37041666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 5.2333244,8.1053885 5.6932664,9.3623059 6.6451259,9.3595492 7.0995817,8.102632 Z"
+         id="path1436" />
+      <path
+         style="fill:none;stroke:#ff7f11;stroke-width:0.37041666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 5.6932663,9.3623057 5.0022786,12.80265"
+         id="path1438" />
+      <path
+         style="fill:none;stroke:#ff7f11;stroke-width:0.37041666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6.6451257,9.3595492 7.2583239,12.80265"
+         id="path1440" />
+      <path
+         style="fill:none;stroke:#ff7f11;stroke-width:0.37041666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 3.0661289,2.7850045 c 0,0 0.9687809,-0.4131468 1.4816405,-0.4108331 0.5407481,0.00243 1.0181849,0.457426 1.5588323,0.4472532 0.5448797,-0.010252 1.0072327,-0.4950154 1.5520115,-0.5095171 0.5036939,-0.013408 1.4589489,0.3940566 1.4589489,0.3940566"
+         id="path1442" />
+      <path
+         style="fill:none;stroke:#ff7f11;stroke-width:0.37041666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1.8040693,12.837816 0.2004521,-1.31088"
+         id="path1448" />
+      <path
+         id="path1450"
+         d="m 10.958051,12.804204 -0.200453,-1.31088"
+         style="fill:none;stroke:#ff7f11;stroke-width:0.37041666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path1444"
+         d="M 3.5970484,7.9156937 3.9083949,9.6842624 5.3668078,8.7358994"
+         style="fill:none;stroke:#ff7f11;stroke-width:0.37041666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ff7f11;stroke-width:0.37041666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8.6507738,7.9156937 8.3394268,9.6842624 6.8810135,8.7358994"
+         id="path1446" />
+    </g>
+  </g>
+</svg>
