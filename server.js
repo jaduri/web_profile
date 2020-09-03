@@ -9,5 +9,5 @@ server.get('/', function(req, res){
 server.use(express.static(__dirname));
 
 server.listen(process.env.PORT || 3000, function(){
-    console.log("server is running on");
+    console.log("server is running");
 });

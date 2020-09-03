@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link type="text/css" rel="stylesheet" href="main.css">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Montserrat|Arimo|Roboto+Slab|Roboto&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Montserrat|Arimo&display=swap" rel="stylesheet">
   <title>Joseph T. Aduwari</title>
 </head>
 <body>
@@ -102,7 +102,7 @@
           <div class="overview">
             <p class="range"><span class="reading" id="html-reading"></span></p>
             <p><strong>Certification:</strong> FCC responsive web design</p>
-            <p><strong>Related technologies:</strong>React, D3, Jasmine</p>
+            <p><strong>Related technologies:</strong>React, EJS</p>
           </div>
         </div>
         <div class="language">
@@ -149,55 +149,91 @@
     <section id="projects" class="main-section">
       <h2>PROJECTS</h2>
       <div id="project-flex">
-        <div class="project">
-          <h3 class="project-title">TAAF <span class="project-status">(Deployed)</span></h3>
-          <img src="images/taaf-logo.svg" alt="the amina agbo foundation logo"/>
-          <p class="project-description">
-            <span class="p-bold">Description:</span>
-            Multi-page static website for a NGO that's focused on empowering women and by extension,
-            their communities.
-          </p>
-          <p class="project-technologies">
-            <span class="p-bold">Technologies:</span>
-            HTML, CSS, PHP, JavaScript
-          </p>
-          <p><span class="p-bold">URL: </span><a href="https://taaf.com.ng" target="_blank"> https://taaf.com.ng</a></p>
+        <div class="project-container" id="professional-projects">
+          <div class="project">
+            <h3 class="project-title">TAAF <span class="project-status">(Deployed)</span></h3>
+            <hr>
+            <img src="images/taaf.jpg" alt="the amina agbo foundation logo"/>
+            <p class="project-description">
+              <span class="p-bold">Description:</span>
+              Multi-page static website for a NGO that's focused on empowering women and by extension,
+              their communities.
+            </p>
+            <p class="project-technologies">
+              <span class="p-bold">Technologies:</span>
+              HTML, CSS, PHP, JavaScript
+            </p>
+            <p><span class="p-bold">URL: </span><a href="https://taaf.com.ng" target="_blank"> https://taaf.com.ng</a></p>
+          </div>
+          <div class="project">
+            <h3 class="project-title">Guisa <span class="project-status"></span></h3>
+            <hr>
+            <img src="images/no-image.svg" alt="blank image"/>
+            <p class="project-description">
+              <span class="p-bold">Description:</span>
+              <!--Tourism and travel web application that showcases the best South Australian experiences
+               to ensure that users make the most of their visit.-->
+            </p>
+            <p class="project-technologies">
+              <span class="p-bold">Technologies:</span>
+              HTML, CSS, JavaScript, Node Js, MongoDB, JQuery
+            </p>
+          </div>
+          <div class="project">
+            <h3 class="project-title">Edutabi <span class="project-status"></span></h3>
+            <hr>
+            <img src="images/no-image.svg" alt="blank image"/>
+            <p class="project-description">
+              <span class="p-bold">Description:</span>
+              <!--Wordpress theme for a travel and lifestile blog for amature and seasoned travellers. Ideal for Japanese users interested in
+              english speaking countries.-->
+            </p>
+            <p class="project-technologies">
+              <span class="p-bold">Technologies:</span>
+              HTML, CSS, JavaScript, PHP, Wordpress, MySQL
+            </p>
+          </div>
+          <div class="project">
+            <h3 class="project-title">Survey Form</h3>
+            <hr>
+            <img src="images/survey.jpg" alt="the amina agbo foundation logo"/>
+            <p class="project-description">
+              <span class="p-bold">Description:</span>
+              Neatly structured HTML form with various input types. Styled with plain CSS.
+            </p>
+            <p class="project-technologies">
+              <span class="p-bold">Technologies:</span>
+              HTML, CSS
+            </p>
+            <p><span class="p-bold">URL: </span><a href="https://codepen.io/magicFingers/full/RzRzyJ" target="_blank"> codepen.io</a></p>
+          </div>
+          <div class="project">
+            <h3 class="project-title">Technical Documentation</h3>
+            <hr>
+            <img src="images/documentation.jpg" alt="blank image"/>
+            <p class="project-description">
+              <span class="p-bold">Description:</span>
+              Information focused technical documentation. Simple and functional static page.
+            </p>
+            <p class="project-technologies">
+              <span class="p-bold">Technologies:</span>
+              HTML, CSS
+            </p>
+            <p><span class="p-bold">URL: </span><a href="https://codepen.io/magicFingers/full/orWywq" target="_blank"> codepen.io</a></p>
+          </div>
         </div>
-        <div class="project">
-          <h3 class="project-title">Guisa <span class="project-status"></span></h3>
-          <img src="images/no-image.svg" alt="blank image"/>
-          <p class="project-description">
-            <span class="p-bold">Description:</span>
-            <!--Tourism and travel web application that showcases the best South Australian experiences
-             to ensure that users make the most of their visit.-->
-          </p>
-          <p class="project-technologies">
-            <span class="p-bold">Technologies:</span>
-            HTML, CSS, JavaScript, Node Js, MongoDB, JQuery
-          </p>
-        </div>
-        <div class="project">
-          <h3 class="project-title">Edutabi <span class="project-status"></span></h3>
-          <img src="images/no-image.svg" alt="blank image"/>
-          <p class="project-description">
-            <span class="p-bold">Description:</span>
-            <!--Wordpress theme for a travel and lifestile blog for amature and seasoned travellers. Ideal for Japanese users interested in
-            english speaking countries.-->
-          </p>
-          <p class="project-technologies">
-            <span class="p-bold">Technologies:</span>
-            HTML, CSS, JavaScript, PHP, Wordpress, MySQL
-          </p>
-        </div>
+        <!-- <div class="project-container" id="practice-projects">
+
+        </div> -->
       </div>
     </section>
     <section id="contact" class="main-section">
       <h2>CONTACT</h2>
-      <p>I am currently not available to collaborate but my contact info will be updated here when I am available.<br><br>
-      Kind regards,<br>
-    Joseph</p>
-
-    </section>
+      <div class="contact-area">
+        <p>LinkedIn: <a href=""></a></p>
+        <p>Github: <a href=""></a></p>
+        <p>Codepen: <a href=""></a></p>
+      </div>
     <div id="mini-nav">
       <a href="#">Top</a>
       <a href="#about-me">About</a>
