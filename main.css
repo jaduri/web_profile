@@ -1,7 +1,7 @@
 /*
 blue: rgba(29, 41, 81)/#1d2951
 gray: E3E4DB
-orange: ff7f11
+orange: #f37121
 */
 
 html {
@@ -303,6 +303,9 @@ hr{
 }
 .project p {
   font-size: 0.9375rem;
+}
+.project a {
+  text-decoration: underline #f37121 dashed;
 }
 
 /*------------------Contact----------------------*/
