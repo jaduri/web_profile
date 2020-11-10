@@ -37,6 +37,9 @@ h3 {
 h4 {
   font-family: "Montserrat";
 }
+ul{
+  padding-left: 0;
+}
 p, li {
   font-family: "Open Sans";
 }
@@ -57,7 +60,7 @@ hr{
   flex-direction: column;
   justify-content: space-around;
   min-height: 500px;
-  height: 75vh;
+  height: 50vh;
   max-height: 700px;
   background-size: cover;
   background-position: center;
@@ -166,6 +169,9 @@ hr{
   height: 30px;
   text-align: center;
   margin: 0 5px;
+  font-size: 1rem;
+  font-weight: normal;
+  outline: none;
   padding: 0 20px;
   border: 1px solid #1d2951;
   border-bottom: none;
@@ -175,20 +181,13 @@ hr{
   cursor: pointer;
   transition: height 0.1s ease-in-out;
 }
-#tabs .tab:hover {
-  height: 35px;
-}
-.tab h3 {
-  font-size: 1.0625rem;
-  font-weight: normal;
-  margin: 0;
-}
 .about-section {
   border-radius: 0 0 10px 10px;
   border-top: 1px solid #1d2951;
   box-shadow: 0 0 1px #1d2951;
   display: none;
   max-height: 300px;
+  overflow: auto;
   padding: 20px 40px;
 }
 .about-section div {
@@ -208,65 +207,31 @@ hr{
 
 #tech-grid {
   display: grid;
-  grid-template-rows: auto;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 2vw;
+  grid-auto-rows: auto;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-gap: 20px;
 }
 .language {
   display: flex;
-  border-radius: 15px;
   position: relative;
-  box-shadow: 0 0 4px #b8b8b8;
+  box-shadow: 0 0 2px #b8b8b8;
+  padding: 5px;
 }
 .badge {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  min-width: 30%;
-  margin: 0;
-  background-color: #E3E4DB33;
+  width: 100%;
+  height: 100%;
+  margin: auto;
   text-align: center;
-  border-radius: 15px 0 0 15px;
 }
 .badge svg {
   height: 70%;
+  width: auto;
 }
 .badge h3 {
   margin: 0 auto;
-}
-.overview {
-  flex-grow: 1;
-  padding: 5px 10px;
-  box-sizing: border-box;
-}
-.range {
-  height: 5px;
-  background-color: lightgray;
-  width: 80%;
-  position: relative;
-  border-radius: 6px;
-}
-.reading {
-  display: inline-block;
-  margin: 0;
-  background-color: #ff7f11;
-  height: 100%;
-  width: 60%;
-  position: absolute;
-  top: 0;
-  border-radius: 6px;
-}
-#html-reading {
-  width: 100%;
-}
-#css-reading {
-  width: 95%;
-}
-#js-reading {
-  width: 85%;
-}
-#php-reading {
-  width: 50%;
 }
 
 /*------------------Projects----------------------*/
@@ -280,7 +245,7 @@ hr{
 .project-container {
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-template-rows: auto;
   padding: 5px;
   min-width: 100%;
@@ -364,23 +329,23 @@ hr{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto auto;
-    grid-gap: 2vw;
+    grid-gap: 2px;
     width: auto;
     margin: auto;
+  }
+  .section{
+    margin: 0;
+    padding: 5px;
   }
   .main-section {
     width: 87%;
   }
-  .tab {
-    margin: 0;
-    padding: 5px;
-    flex-grow: 1;
-  }
   .about-section {
     flex-direction: column;
   }
-  #tech-grid {
-    grid-template-columns: 1fr;
+  .tab{
+    padding: 2px;
+    margin: 0;
   }
 
 }
