@@ -21,6 +21,8 @@ body {
   background-repeat: no-repeat;
   background-size: 100%;
   background-attachment: fixed;
+  height: 100%;
+  position: relative;
 }
 a {
   text-decoration: none;
@@ -275,8 +277,8 @@ hr{
 
 /*------------------Contact----------------------*/
 
-.contact-area{
-
+#contact{
+  margin-bottom: 0;
 }
 
 /*------------------Other----------------------*/
@@ -321,6 +323,15 @@ hr{
 #mini-nav:hover {
   width: 125px;
 }
+
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+
 @media screen and (max-width:920px){
   html {
     font-size: 15px;
