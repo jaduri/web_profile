@@ -283,17 +283,17 @@ hr{
 
 /*------------------Other----------------------*/
 
+
 #mini-nav {
   display: flex;
   flex-direction: column;
   position: fixed;
-  top: 50vh;
-  left: 0px;
+  top: 40vh;
+  right: 0px;
   width: 25px;
   padding-left: 25px;
   text-align: right;
   background-color: #111d5e;
-  border-radius: 0 5px 5px 0;
   overflow: hidden;
   box-sizing: border-box;
   transition: 0.2s ease-in-out;
@@ -303,8 +303,9 @@ hr{
   font-family: "Open Sans";
   font-size: 0.875rem;
   width: 1px;
-  color: white;
+  color: #fff;
   margin: 5px 0;
+  text-align: center;
   transition: 0.07s ease-in-out;
 }
 #mini-nav::before {
@@ -314,21 +315,19 @@ hr{
   width: 150px;
   margin: 0;
   padding: 0;
-  color: #ff7f11;
+  color: #fff;
   transform: rotate(270deg);
   position: absolute;
   bottom: 5px;
   left: -65px;
 }
 #mini-nav:hover {
-  width: 125px;
+  width: 90px;
 }
-
-footer{
-  position: absolute;
-  bottom: 0;
+#mini-nav:hover a {
   width: 100%;
-  text-align: center;
+  margin: 5px auto;
+  padding-right: 15px;
 }
 
 
