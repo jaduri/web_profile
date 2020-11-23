@@ -181,7 +181,7 @@ hr{
   color: white;
   border-radius: 10px 10px 0 0;
   cursor: pointer;
-  transition: height 0.1s ease-in-out;
+  transition: 0.2s ease;
 }
 .about-section {
   border-radius: 0 0 10px 10px;
