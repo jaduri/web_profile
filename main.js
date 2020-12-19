@@ -1,4 +1,5 @@
-window.addEventListener('load', aboutMe)
+window.addEventListener('load', aboutMe);
+window.addEventListener('scroll', fixNav);
 function aboutMe(){
   var tabs = document.getElementsByClassName('tab');
   var sections = document.getElementsByClassName('about-section');
@@ -23,3 +24,13 @@ function aboutMe(){
     }
   }
 };
+
+function fixNav(){
+  const nav = document.getElementById("nav-bar");
+  console.log(window.scrollY);
+  if(window.scrollY > 350){
+    nav.classList.add("fixed-nav");
+  }else{
+    nav.classList.remove("fixed-nav");
+  }
+}
